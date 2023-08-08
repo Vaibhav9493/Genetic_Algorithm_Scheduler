@@ -2,9 +2,9 @@ Genetic University Timetable Scheduler Using Metaheuristic Adaptive-Elitist Gene
 A research on creation of metaheuristic university class timetable scheduling solution.
 
 Installation:
-1.Clone repository.
-2.Ensure all dependencies are installed.
-3.Run python main.py on project directory.
+1. Clone repository.
+2. Ensure all dependencies are installed.
+3. Run python main.py on project directory.
 
 Usage:
 1. Add instructors
